@@ -10,6 +10,8 @@ header {
   flex-direction: row;
   justify-content: center;
   font-size: x-large;
+  position: fixed;
+  width: 100%;
 }
 header nav, header ul, header li {
   display: flex;
